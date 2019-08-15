@@ -1,0 +1,3 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject Version="1" MasterStylesheet="/Content/Resources/Stylesheets/Styles.css" MasterPageLayout="/Content/Resources/PageLayouts/Default.flpgl" MasterStylesheetOverride="True" xml:lang="en-us" SourceControlBound="true" Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project." SourceControlProviderType="Git" ProjectGuid="df2933a8-4523-420b-9791-6925462cc778">
+</CatapultProject>
